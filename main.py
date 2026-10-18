@@ -1,3 +1,4 @@
+from fuelAttendant.Attendant import FuelAttendant
 from fuelDispenser.Dispenser import Dispenser
 
 

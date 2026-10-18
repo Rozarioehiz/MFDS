@@ -1,9 +1,5 @@
 from fuel.Fuel import Fuel
 
-#
-# fuel ={
-#     "Petroleum": ["petro","kerosene","gas","diseal"]
-# }
 
 
 from fuel.Fuel import Fuel
